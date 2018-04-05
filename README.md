@@ -1,4 +1,3 @@
-
 # Algorithms/services implemented by Feschenko Natalia
 
 Instalation:
