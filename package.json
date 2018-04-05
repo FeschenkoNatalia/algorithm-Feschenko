@@ -1,0 +1,28 @@
+{
+  "name": "algorithms-feschenko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/eslint/bin/eslint.js lib && node ./node_modules/mocha/bin/mocha --recursive lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algorithms-club-1eb9/algorithms-Feschenko.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/algorithms-club-1eb9/algorithms-Feschenko/issues"
+  },
+  "homepage": "https://github.com/algorithms-club-1eb9/algorithms-Feschenko#readme",
+  "dependencies": {
+    "mocha": "^5.0.1",
+    "should": "^13.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
